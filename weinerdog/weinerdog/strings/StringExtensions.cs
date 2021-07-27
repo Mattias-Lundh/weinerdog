@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace weinerdog.strings
+namespace Weinerdog.Strings
 {
     public static class StringExtensions
     {
+        static System.Random rnd = new System.Random();
         public static string Suffle(this string s)
         {
             string output = "";
@@ -27,9 +28,7 @@ namespace weinerdog.strings
             return output;
         }
 
-        static System.Random rnd = new System.Random();
-
-        private void Fisher_Yates(int[] array)
+        private static void Fisher_Yates(int[] array)
         {
             int arraysize = array.Length;
             int random;
