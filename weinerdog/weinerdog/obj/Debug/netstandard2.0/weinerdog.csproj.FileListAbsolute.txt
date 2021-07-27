@@ -1,0 +1,9 @@
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\bin\Debug\netstandard2.0\weinerdog.deps.json
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\bin\Debug\netstandard2.0\weinerdog.dll
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\bin\Debug\netstandard2.0\weinerdog.pdb
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.csproj.AssemblyReference.cache
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.AssemblyInfoInputs.cache
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.AssemblyInfo.cs
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.csproj.CoreCompileInputs.cache
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.dll
+C:\mattias\repos\weinerdog\weinerdog\weinerdog\obj\Debug\netstandard2.0\weinerdog.pdb
